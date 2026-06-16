@@ -22,10 +22,11 @@ Statistical analyses were performed in R.
 
 ## Authors
 
-Tomáš Kopta
-Lucia Nedorost Ragasová 
-Lucie Frejilichová
-Jan Winkler
+Tomáš Kopta,
+Lucia Nedorost Ragasová, 
+Lucie Frejilichová,
+Jan Winkler,
+
 Mendel University in Brno  
 
 
