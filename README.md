@@ -9,7 +9,7 @@ Data and supporting materials associated with the manuscript:
 ### data
 Contains datasets used for statistical analyses.
 
-- vegetation_microbe_theilsen_output_tables.xlsx – vegetation and soil microbial data used in the analyses.
+data
 
 ### scripts
 Contains R scripts used for data processing, statistical analyses, and figure preparation.
