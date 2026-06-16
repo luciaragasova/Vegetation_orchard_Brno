@@ -24,7 +24,7 @@ Statistical analyses were performed in R.
 
 Tomáš Kopta,
 Lucia Nedorost Ragasová, 
-Lucie Frejilichová,
+Lucie Frejlichová,
 Jan Winkler,
 
 Mendel University in Brno  
