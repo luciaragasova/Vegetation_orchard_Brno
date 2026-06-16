@@ -9,8 +9,6 @@ Data and supporting materials associated with the manuscript:
 ### data
 Contains datasets used for statistical analyses.
 
-data
-
 ### scripts
 Contains R scripts used for data processing, statistical analyses, and figure preparation.
 
